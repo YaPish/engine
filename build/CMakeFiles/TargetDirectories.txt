@@ -1,0 +1,3 @@
+/Users/yapish/Desktop/BMSTU/Labs/PGP/rk1/build/CMakeFiles/engine.dir
+/Users/yapish/Desktop/BMSTU/Labs/PGP/rk1/build/CMakeFiles/edit_cache.dir
+/Users/yapish/Desktop/BMSTU/Labs/PGP/rk1/build/CMakeFiles/rebuild_cache.dir

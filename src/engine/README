@@ -1,0 +1,11 @@
+level0 - core engine:
+    object,
+    components,
+    coliders,
+    expanded math
+
+level1 - phisics engine
+
+level2 - graphics engine
+
+level3 - mainLoop
